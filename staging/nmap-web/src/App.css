@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+input[type="text"] {
+  padding: 10px;
+  width: 300px;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px;
+  font-size: 14px;
+}
+
+.output {
+  text-align: left;
+  margin-top: 20px;
+}
+
+pre {
+  background-color: hsl(180, 93%, 21%);
+  padding: 20px;
+  border: 1px solid #01515f;
+}
